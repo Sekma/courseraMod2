@@ -17,6 +17,7 @@ section{
     margin-top: 50px;
    height: 35%;
    background-color: gray;
+   overflow: auto;
 }
 section h1{
     border-bottom: 5px solid black;
